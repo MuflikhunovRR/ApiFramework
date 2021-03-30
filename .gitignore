@@ -1,0 +1,7 @@
+*.iml
+allure-results/
+.allure
+.idea/
+target/
+test.properties
+alm.properties
